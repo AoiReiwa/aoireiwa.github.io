@@ -3,11 +3,11 @@
   <title>(test)</title>
   
   <subtitle>subtitle</subtitle>
-  <link href="https://cnvirus.github.io/atom.xml" rel="self"/>
+  <link href="https://aoireiwa.github.io/atom.xml" rel="self"/>
   
-  <link href="https://cnvirus.github.io/"/>
-  <updated>2022-02-13T08:49:47.235Z</updated>
-  <id>https://cnvirus.github.io/</id>
+  <link href="https://aoireiwa.github.io/"/>
+  <updated>2022-02-13T08:49:54.790Z</updated>
+  <id>https://aoireiwa.github.io/</id>
   
   <author>
     <name>author</name>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>Hello</title>
-    <link href="https://cnvirus.github.io/posts/62291.html"/>
-    <id>https://cnvirus.github.io/posts/62291.html</id>
+    <link href="https://aoireiwa.github.io/posts/62291.html"/>
+    <id>https://aoireiwa.github.io/posts/62291.html</id>
     <published>2022-02-13T08:49:47.000Z</published>
-    <updated>2022-02-13T08:49:47.235Z</updated>
+    <updated>2022-02-13T08:49:54.790Z</updated>
     
     
     
