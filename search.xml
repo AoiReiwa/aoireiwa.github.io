@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello</title>
-    <url>/posts/62291.html</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
     <title>Universities are giving staff additional leave to help &#39;ease the burden&#39; of COVID pandemic</title>
     <url>/posts/51152.html</url>
     <content><![CDATA[<p>Andrew Timming is making the most of his additional “well-being” leave by doing “basically nothing” in locked-down Melbourne, the RMIT university professor says.</p>
@@ -28,6 +23,11 @@
         <tag>Australia</tag>
         <tag>ABC news</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Hello</title>
+    <url>/posts/62291.html</url>
+    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>Universities are giving staff additional leave to help &#39;ease the burden&#39; of COVID pandemic</title>
