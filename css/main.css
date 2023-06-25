@@ -2619,6 +2619,10 @@ header.header {
     margin-bottom: 10px;
   }
 }
+.headband {
+  background: #fff1e5;
+  height: 0px;
+}
 .posts-expand .post-title-link {
   color: #da3b01;
 }
@@ -2683,6 +2687,7 @@ figure.highlight .gutter pre {
 }
 .menu-item a:hover {
   color: #333;
+  background-color: #fff1e5;
 }
 .main-menu .menu-item-active::after {
   display: none;
