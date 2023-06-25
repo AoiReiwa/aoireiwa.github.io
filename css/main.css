@@ -2659,6 +2659,9 @@ p {
 .posts-expand .post-meta-container .post-description {
   display: none;
 }
+.posts-expand .post-meta-container {
+  font-size: 0.9em;
+}
 code,
 kbd,
 figure.highlight,
@@ -2680,14 +2683,15 @@ figure.highlight .gutter pre {
 .menu-item {
   margin-bottom: 20px;
   padding: 5px;
+  font-size: 1.3em;
 }
 .menu-item a.menu-item-active {
   font-weight: bold;
-  background-color: #fff1e5;
+  background: #fff1e5;
 }
 .menu-item a:hover {
   color: #333;
-  background-color: #fff1e5;
+  background: #fff1e5;
 }
 .main-menu .menu-item-active::after {
   display: none;
@@ -2704,10 +2708,17 @@ figure.highlight .gutter pre {
 .site-description,
 .site-state-item-name {
   color: #555;
+  font-size: 1em;
 }
 .site-nav-toggle .toggle,
 .site-nav-right .toggle {
   color: #666;
+}
+.sidebar-nav {
+  font-size: 1em;
+}
+.post-toc {
+  font-size: 1em;
 }
 .post-button .btn {
   color: #555;
@@ -2729,10 +2740,17 @@ figure.highlight .gutter pre {
 }
 .footer {
   color: #555;
+  font-size: 1em;
 }
 .post-eof {
   display: none;
 }
 .collection-title {
   display: none;
+}
+.posts-collapse .post-content .post-meta-container {
+  font-size: 1.1em;
+}
+.posts-collapse .post-content .post-title a {
+  font-size: 1.1em;
 }
