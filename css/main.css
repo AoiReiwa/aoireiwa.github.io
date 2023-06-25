@@ -2735,6 +2735,12 @@ figure.highlight .gutter pre {
   margin-bottom: 10px;
   text-align: center;
 }
+.post-tags a {
+  font-size: 0.9em;
+}
+.post-nav-item a {
+  font-size: 0.9em;
+}
 .with-love {
   display: none;
 }
