@@ -2651,6 +2651,7 @@ body,
 .post-body {
   font-family: 'Noto Sans', 'Microsoft YaHei', sans-serif;
   color: #3e3e3e;
+  text-align: left;
 }
 p {
   line-height: 1.5em;
