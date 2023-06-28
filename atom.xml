@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>(test)</title>
   
-  <subtitle>subtitle</subtitle>
+  
   <link href="https://aoireiwa.github.io/atom.xml" rel="self"/>
   
   <link href="https://aoireiwa.github.io/"/>
