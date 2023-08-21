@@ -2657,9 +2657,9 @@ body,
   padding-top: 0px;
 }
 p {
-  line-height: 1.3em;
+  line-height: 1.5em;
   font-size: 1em;
-  margin: 0 0 0.6em;
+  margin: 0 0 1em 0;
 }
 @media (max-width: 1200px) {
   p {
